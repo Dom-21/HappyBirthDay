@@ -1,0 +1,17 @@
+#heading{
+    margin-top: 60px;
+    background-color: blue;
+    color: whitesmoke;
+    font-size: xx-large;
+    border-radius: 10px;
+}
+#para{
+    font-size: 22px;
+    color: maroon;
+    background-color: aqua;
+
+}
+
+#img{
+    background-color: aliceblue;
+}
